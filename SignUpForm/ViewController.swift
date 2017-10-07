@@ -28,6 +28,11 @@ class ViewController: UIViewController {
        imageBaseView.layer.borderColor = UIColor.lightGray.cgColor
        imageBaseView.layer.borderWidth = 0.5
         
+        fNameTextFiled.layer.cornerRadius = 30
+        lNameTextFiled.layer.cornerRadius = 30
+        firstPassTextFiled.layer.cornerRadius = 30
+        secondPassTextFiled.layer.cornerRadius = 30
+        
     }
 
    
